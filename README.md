@@ -1,2 +1,2 @@
 # fogbugz-testing-2
-for testing. of github through the old-y interface.
+for testing. of github through the old-y interface. because we loves the legacy.
